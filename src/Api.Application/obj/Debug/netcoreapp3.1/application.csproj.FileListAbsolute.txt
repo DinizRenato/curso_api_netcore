@@ -76,3 +76,4 @@ C:\Users\diniz\OneDrive\Documentos\cursos\curso_api_netcore\src\Api.Application\
 C:\Users\diniz\OneDrive\Documentos\cursos\curso_api_netcore\src\Api.Application\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\diniz\OneDrive\Documentos\cursos\curso_api_netcore\src\Api.Application\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
 C:\Users\diniz\OneDrive\Documentos\cursos\curso_api_netcore\src\Api.Application\obj\Debug\netcoreapp3.1\application.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\diniz\OneDrive\Documentos\cursos\curso_api_netcore\src\Api.Application\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
