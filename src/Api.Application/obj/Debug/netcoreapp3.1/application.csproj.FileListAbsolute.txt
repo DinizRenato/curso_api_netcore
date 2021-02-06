@@ -1,6 +1,5 @@
 C:\Users\diniz\OneDrive\Documentos\cursos\curso_api_netcore\src\Api.Application\bin\Debug\netcoreapp3.1\appsettings.Development.json
 C:\Users\diniz\OneDrive\Documentos\cursos\curso_api_netcore\src\Api.Application\bin\Debug\netcoreapp3.1\appsettings.json
-C:\Users\diniz\OneDrive\Documentos\cursos\curso_api_netcore\src\Api.Application\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
 C:\Users\diniz\OneDrive\Documentos\cursos\curso_api_netcore\src\Api.Application\bin\Debug\netcoreapp3.1\application.exe
 C:\Users\diniz\OneDrive\Documentos\cursos\curso_api_netcore\src\Api.Application\bin\Debug\netcoreapp3.1\application.deps.json
 C:\Users\diniz\OneDrive\Documentos\cursos\curso_api_netcore\src\Api.Application\bin\Debug\netcoreapp3.1\application.runtimeconfig.json
@@ -77,3 +76,4 @@ C:\Users\diniz\OneDrive\Documentos\cursos\curso_api_netcore\src\Api.Application\
 C:\Users\diniz\OneDrive\Documentos\cursos\curso_api_netcore\src\Api.Application\obj\Debug\netcoreapp3.1\application.dll
 C:\Users\diniz\OneDrive\Documentos\cursos\curso_api_netcore\src\Api.Application\obj\Debug\netcoreapp3.1\application.pdb
 C:\Users\diniz\OneDrive\Documentos\cursos\curso_api_netcore\src\Api.Application\obj\Debug\netcoreapp3.1\application.genruntimeconfig.cache
+C:\Users\diniz\OneDrive\Documentos\cursos\curso_api_netcore\src\Api.Application\obj\Debug\netcoreapp3.1\scopedcss\bundle\application.styles.css
