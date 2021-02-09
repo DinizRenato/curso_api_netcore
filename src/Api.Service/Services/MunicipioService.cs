@@ -68,10 +68,5 @@ namespace Api.Service.Services
             return await _repository.DeleteAsync(id);
         }
 
-        Task<MunicipioDto> IMunicipioService.Get(Guid id)
-        {
-            throw new NotImplementedException();
-        }
-
     }
 }
